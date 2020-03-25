@@ -1,2 +1,2 @@
-# aula02-cv
-Exercicio da aula 02 _ CV
+# aula02-res
+Exercicio da aula 02 _ Programmer Resumee
